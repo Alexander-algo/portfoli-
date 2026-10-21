@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(rgb(192, 97, 247),rgb(42, 140, 252));
+}
+
+.link-header {
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    background-color: dodgerblue;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.link-text {
+    text-decoration: none;
+    color: white;
+    background-color: dodgerblue;
+    padding: 5px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(192, 97, 247),rgb(42, 140, 252));
+    border: 2px solid black;
+}
+
+header a {
+    background-image: linear-gradient(rgb(192, 97, 247),rgb(42, 140, 252));
+    border: 3px solid black;
+}
+
+header a:hover {
+    font-size: 42px;
+
+}
+
+.link-text:hover {
+    font-size: 30px;
+}
+
+header {
+    padding: 20px;
+}
+
+.text-big {
+    font-size: 23px;
+}
